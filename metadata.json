@@ -1,0 +1,10 @@
+{
+  "name": "Belajarin",
+  "description": "Platform pembelajaran interaktif dan ujian daring dengan kontrol 1 akun 1 perangkat, kamera foto jawaban, pendeteksi kecurangan, dan asisten koreksi AI.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
